@@ -1,0 +1,76 @@
+{
+  "membership": [
+    {
+      "id": "vip1",
+      "title": "VIP Membership",
+      "tier": "VIP",
+      "price": 1999,
+      "duration": "1 Month",
+      "features": [
+        "500 Diamonds Weekly",
+        "Exclusive VIP Badge",
+        "Priority Support",
+        "Special Discounts",
+        "Early Access to New Items"
+      ]
+    },
+    {
+      "id": "premium1",
+      "title": "Premium Membership",
+      "tier": "Premium",
+      "price": 3499,
+      "duration": "1 Month",
+      "features": [
+        "1000 Diamonds Weekly",
+        "Exclusive Premium Badge",
+        "VIP + Premium Benefits",
+        "15% Discount on All Purchases",
+        "Free Elite Pass"
+      ]
+    },
+    {
+      "id": "deluxe1",
+      "title": "Deluxe Membership",
+      "tier": "Deluxe",
+      "price": 4999,
+      "duration": "1 Month",
+      "features": [
+        "2000 Diamonds Weekly",
+        "Exclusive Deluxe Badge",
+        "All VIP + Premium Benefits",
+        "20% Discount on All Purchases",
+        "Free Elite Pass + 2 Skins"
+      ]
+    }
+  ],
+  "diamonds": [
+    {
+      "id": "diamond100",
+      "title": "100 Diamonds",
+      "description": "Instant delivery to your Free Fire account",
+      "price": 299,
+      "originalPrice": 399,
+      "discount": 25,
+      "image": "https://i.ibb.co/JjYWHBxx/free-fire-57-diamond-no-login-sgmy-only-17162984117593164.webp"
+    },
+    {
+      "id": "diamond500",
+      "title": "500 Diamonds",
+      "description": "Best value diamond package",
+      "price": 1299,
+      "originalPrice": 1599,
+      "discount": 19,
+      "image": "https://i.ibb.co/JjYWHBxx/free-fire-57-diamond-no-login-sgmy-only-17162984117593164.webp"
+    }
+  ],
+  "evo": [],
+  "accounts": [
+    {
+      "id": "ACC-4999",
+      "title": "Premium Account (Level 70)",
+      "description": "High level account with rare skins",
+      "price": 4999,
+      "image": "https://i.ibb.co/rrK05hv/who-old-is-your-account-v0-gw7uyv9rck7c1.jpg"
+    }
+  ]
+}
